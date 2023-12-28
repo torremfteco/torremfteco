@@ -4,6 +4,7 @@
 <h1 align="center">Salut! 👋, je m'appelle María</h1>
 <h3 align="center">Je suis Sociaux Média, Photographie et un Développeur Frontend Junior.</h3>
 
+---
 - 🌱 J'apprends actuellement langages de programmation: **RUBY, JAVASCRIPT.**
 
 - 👨‍💻 Tous mes projets sont disponibles sur [goo.gl/EUHm5q](goo.gl/EUHm5q)
@@ -18,6 +19,11 @@
 
 - ⚡ Je veux apprendre **BOOTSTRAP, RAILS ET REACT**
 ---
+<p>LANGAGES ET OUTILS</p>
+
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400"/>
+    
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/torremfteco/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/torremfteco/" height="30" width="40" /></a>
